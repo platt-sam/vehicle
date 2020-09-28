@@ -1,2 +1,2 @@
 # vehicle
-A vehicle simulator
+A simple vehicle simulator
