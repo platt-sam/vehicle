@@ -1,2 +1,2 @@
 # vehicle
-A simple vehicle simulator from a CS 2 class
+A simple vehicle simulator in Java from a CS 2 class
